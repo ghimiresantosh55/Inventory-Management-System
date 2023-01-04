@@ -1,2 +1,2 @@
-# soori-ims-backend
-Backend repository for soori ims
+
+Backend repository of ims system
